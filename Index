@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+  <title>Ugly 90's Website</title>
+  <link rel="icon" type="image/png" href="90sfavicon.png"/>
+<body>
+
+<ul>
+
+   <li><a href="ToS.html">Our ToS</a></li>
+  <li><a href="contact.html">Contact</a></li>
+
+    
+  <li><a href="about-us.html">About</a></li>
+  <li><a href="Weather.html">Weather today</a></li>
+  <li><a href="NodeMail-index.html">Your Email</a></li>
+</ul>
+
+<!-- 
+Ok put the image in this format <div><img src="myimage.jpg" width="100" alt="My Image" /></div> 
+  -->
+
+</body>
+</html>
+
+<html lang="en">
+ 
+<head>
+  <style>
+    body{
+      height: 795px;
+      background-image: repeating-linear-gradient(190deg,red, yellow 1%, green 4%);
+    }
+  </style>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content=
+        "width=device-width, initial-scale=1.0">
+    <title>Text Color Animation</title>
+ 
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+ 
+        div {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+ 
+        h2 {
+            font-size: 3em;
+            font-family: comic sans MS;
+            color: transparent;
+            text-align: center;
+            animation: effect 0.5s linear infinite;
+            \
+        }
+ 
+        @keyframes effect {
+            0% {
+                background: linear-gradient(
+                        #800080, #964B00);
+                -webkit-background-clip: text;
+            }
+ 
+            100% {
+                background: linear-gradient(
+                        #000080, #FFFF00);
+                -webkit-background-clip: text;
+            }
+        }
+    </style>
+</head>
+
+  
+<body>
+    <div>
+        <h2>Welcome to "Ugly 90s website"</h2>
+
+    </div>
+    <br>
+
+ 
+  <br> 
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <hide><a href="T90AC.html">The 90s are calling...</a></hide>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br> 
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <p1>An HTML web project proudly made by @NeoFall</p1>
+</body>
+  <p>
+    <div id="home">
+<br>
+<br>
+<br>
+<br>      
+<br>
+      <br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br>
+      <br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br><br>
+<br>
+<br>
+<br>      
+<br>
+<br>
+      <audio controls="" autoplay="" loop=""> <source src="annoying-music.ogg" type="audio/ogg"> Your browser does not support the audio element. </source>
+      </audio>
+  </p>
+
+
+  
+
+      
+
+</html>
